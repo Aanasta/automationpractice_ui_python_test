@@ -1,4 +1,4 @@
-#Automationpactice.com_ui_test
+# Automationpactice.com_ui_test
 * This is a very basic test automation example project created with Python 3.7, Selenium WebDriver, and pytest following Page Object Model.
 The AUT is [a training online shop](http://automationpractice.com/). Also Chromedriver should be available in the path.
 
